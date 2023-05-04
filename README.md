@@ -7,11 +7,11 @@ Prototyping boards to assist testing programmed ATMEGA8 chips with WiiKey firmwa
 
 ## Design
 
-The PCB and schematic was designed in KiCAD.
+The PCB and schematic was designed in KiCad.
 
-## Components
+## Materials
 
-  * x1 ATMEGA8 (PDIP28)
-  * x1 1K resistor
-  * x2 100nF 0.1uF capacitor
-  * x1 8-pin right-angle header.
+  * U1 - ATMEGA8 (PDIP8).
+  * R1 - 1k resistor.
+  * C1 - 100nF 0.1uF capacitor.
+  * J1 - 1x06 right-angle pin header.
